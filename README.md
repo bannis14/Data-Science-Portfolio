@@ -80,6 +80,5 @@ Demonstrating proficiency in various tools and technologies through certificatio
 ## Contact
 Feel free to connect or reach out:
 
-- GitHub: [Your GitHub Profile](link-to-github)
 - LinkedIn: [@brettannis](https://www.linkedin.com/in/brett-annis-308418137/)
 - Email: brettannis@gmail.com

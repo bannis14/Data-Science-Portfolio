@@ -34,6 +34,19 @@ Let's connect and explore the endless possibilities of data together!
 ## Table of Contents
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
+   - Machine Learning (Python)
+   - Python
+      - Statistics/Data Analysis
+      - Segmentation
+      - Time Series Forecasting
+      - Econometrics and Causal Inference
+   - Machine Learning
+   - Excel
+      - Business Intelligence
+      - VBA
+   - PowerBI
+   - SQL
+      
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
@@ -53,24 +66,20 @@ Explore my showcased projects that demonstrate my skills and passion for data:
 ## Education
 - **Bachelor of Science in Finance**
   - *The Ohio State University*
-  - Year of Graduation: [Year]
+  - Year of Graduation: [2018]
 
 ## Certificates
 Demonstrating proficiency in various tools and technologies through certifications:
 
-- **Excel Basics**
-- **Business Intelligence With Excel**
-- **PowerBI**
-- **VBA Programming**
-- **Python**
-- **Data Analytics and Business Intelligence with Python**
-- **Time Series Forecasting**
 - **Machine Learning and Data Science**
+- **Python**
 - **SQL**
+- **Excel / VBA**
+- **PowerBI**
 
 ## Contact
 Feel free to connect or reach out:
 
 - GitHub: [Your GitHub Profile](link-to-github)
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/brett-annis-308418137)
+- Email: brettannis@gmail.com

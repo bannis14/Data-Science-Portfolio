@@ -17,7 +17,7 @@ Armed with a rich toolkit, including advanced Excel formulas, PowerBI, VBA progr
 
 📚 Certifications:
 
-      I proudly hold certifications in Excel Basics, Business Intelligence, VBA Programming, Python, Data Analytics, Time Series Forecasting, Machine Learning, and Data Science. These certifications, coupled           with my practical experiences, form the backbone of my data expertise.
+I proudly hold certifications in Excel Basics, Business Intelligence, VBA Programming, Python, Data Analytics, Time Series Forecasting, Machine Learning, and Data Science. These certifications, coupled           with my practical experiences, form the backbone of my data expertise.
 
 
 🌐 What Drives Me:

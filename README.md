@@ -34,18 +34,14 @@ Let's connect and explore the endless possibilities of data together!
 ## Table of Contents
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
-   - Machine Learning (Python)
    - Python
-      - Statistics/Data Analysis
-      - Segmentation
-      - Time Series Forecasting
-      - Econometrics and Causal Inference
-   - Machine Learning
-   - Excel
-      - Business Intelligence
-      - VBA
+      - [Volkswagen DieselGate Stock Price Analysis](#volkswagen-dieselgate-stock-price-analysis)
+      - [Bulldozer Price Predictor](#bulldozer-price-predictor)
+      - [Ensemble Time Series Forecasting Product](#ensemble-time-series-forecasting-product)
    - PowerBI
+      - [UFO Sightings Dashboard](#ufo-sightings-dashboard)
    - SQL
+      - [Employee Database Queries](#employee-database-queries)  
       
 - [Education](#education)
 - [Certificates](#certificates)
@@ -54,19 +50,47 @@ Let's connect and explore the endless possibilities of data together!
 ## Portfolio Projects
 Explore my showcased projects that demonstrate my skills and passion for data:
 
-1. **[Project 1: Project Name](link-to-project-1)**
+### Volkswagen DieselGate Stock Price Analysis
+
+**Code:** [Volkswagen_DieselGate_Stock_Price_Analysis.ipynb](https://github.com/bannis14/Portfolio-Projects/blob/main/Volkswagen_Causal_Impact_Analysis/Volkswagen_Deiselgate_Stock_Analysis.ipynb)
+
+**Goal:** To determine whether the revelation of the emission scandal had a discernible influence on the stock performance of VW.
+
+**Description:** This project analyzes the potential causal impact of the Volkswagen (VW) emission scandal on the stock price of VW. Stock information was extracted and cleaned to form a training data set and perform exploratory data analysis. I then ran a causal impact analysis and visualized the results.
+
+**Skills:** Causal Impact, Data Preprocessing, Time Series Analysis, Data Visualization, Statistical Analysis, Financial Analysis
+
+**Technology:** Python, yfinance, Pandas, Matplotlib,Seaborn,CausalImpact
+
+**Result:** It was determined through the analysis that the emissions scandal resulted in a decreased price by 25.58%
+
+### Bulldozer Price Predictor
+
+**Code:** [Bulldozer_Price_Predictor.ipynb](https://github.com/bannis14/Portfolio-Projects/blob/main/Bulldozer_Price_Predictor/bulldozer-price-predictor.ipynb)
+
+**Goal:** In this notebook, our goal is to create a machine learning model that can predict future sales prices of bulldozers based on previous bulldozer sales data
+
+**Description:** We used a dataset that compiled historical buldozer sales. I cleaned and extract relevant information and performed other EDA functions. When the data was in a satisfactory form, I built a baseline model using a `RandomForestRegressor` and evaluated its performance. Then I optimized the model through hyperparameter tuning using `RandomizedSearchCV`. I compared the performance of the tuned model with the baseline, and evaluated key metrics (RMSLE).
+
+**Skills:** Data Analysis, Data Preprocessing, Machine Learning, Feature Engineering, Model Evaluation
+
+**Technology:** Python, Numpy, Pandas, Matplotlib, Scikit-Learn
+
+**Result:** The final model demonstrated strong performance in predicting bulldozer sale prices. Additional results and conclusion can be found in the notebook.
+
+### Ensemble Time Series Forecasting Product
    - Brief description and key achievements.
 
-2. **[Project 2: Project Name](link-to-project-2)**
+### UFO Sightings Dashboard
    - Brief description and key achievements.
 
-3. **[Project 3: Project Name](link-to-project-3)**
+### Employee Database Queries
    - Brief description and key achievements.
 
 ## Education
-- **Bachelor of Science in Finance**
-  - *The Ohio State University*
-  - Year of Graduation: [2018]
+- **Bachelor of Science in Business Administration: Majoring in Finance**
+  - *The Ohio State University - Fisher College  of Business*
+  - Year of Graduation: 2018
 
 ## Certificates
 Demonstrating proficiency in various tools and technologies through certifications:
@@ -81,4 +105,4 @@ Demonstrating proficiency in various tools and technologies through certificatio
 Feel free to connect or reach out:
 
 - LinkedIn: [@brettannis](https://www.linkedin.com/in/brett-annis-308418137/)
-- Email: brettannis@gmail.com
+- Email: brettannis2014@gmail.com
